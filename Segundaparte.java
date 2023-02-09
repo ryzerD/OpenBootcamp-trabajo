@@ -1,4 +1,3 @@
-import javax.sound.midi.VoiceStatus;
 
 class primeraparte{
     public static void main(String[] args) {
